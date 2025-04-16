@@ -1,5 +1,5 @@
 # Mod Download Script for Vintage Story
-This script automates mod downloads for Vintage Story. This is intended for mass downloads, e.g. when downloading a large batch of mods for the first time. Made with the intent to be used for servers, but can be used for singleplayer usage as well.
+This Bash/Shell script automates mod downloads for Vintage Story. This is intended for mass downloads, e.g. when downloading a large batch of mods for the first time. Made with the intent to be used for Linux servers, but can be used for singleplayer usage as well.
 
 ## Usage Instructions
 1. Place mod_download_script.sh in the Mods directory of your Vintage Story server.
